@@ -123,6 +123,14 @@ map00052      Galactose metabolism                         10
 ## License
 KO2Pathway is released under the MIT License.
 
+# Cite Us
+
+If you use this software, please cite it as below:
+
+``` commandline
+Sharaf, A., & Voolstra, C. R. (2026). KO2Pathway. In KO2Pathway. Zenodo. https://doi.org/10.5281/zenodo.19731236
+```
+
 ## Acknowledgments
 KEGG for providing the pathway and KO data.
 
